@@ -16,4 +16,5 @@ This project tackles the last question. We use bikeshare data from citiBike to a
   1. How Many Trips Were Recorded During the Month of August? 
      Since whether August is perfect for biking, this is an appropriate month to look at the business' success. If it cannot do well during optimal biking whether, can we expect bikesharing to do well Des Moines? 
   2. What Is the Proportion of Short-Term Customers to Annual Subscribers?
+  3. What Are Peak Riding Hours in the Month of August?
 
