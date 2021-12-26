@@ -18,4 +18,5 @@ This project tackles the last question. We use bikeshare data from citiBike to a
   2. What Is the Proportion of Short-Term Customers to Annual Subscribers?
   3. What Are Peak Riding Hours in the Month of August?
   4. What Are the Top Bike Stations in the City for Starting a Journey?
+  5. What Are the Top Bike Stations for Ending a Journey?
 
