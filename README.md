@@ -22,4 +22,5 @@ This project tackles the last question. We use bikeshare data from citiBike to a
   6. What Is the Gender Breakdown of Active Riders?
   7. What Is the Average Trip Duration by Age?
   8. Which Bikes Are Most Likely Due for Repair?
+  9. How Variable Is Bike Utilization?
 
