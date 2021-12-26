@@ -20,4 +20,6 @@ This project tackles the last question. We use bikeshare data from citiBike to a
   4. What Are the Top Bike Stations in the City for Starting a Journey?
   5. What Are the Top Bike Stations for Ending a Journey?
   6. What Is the Gender Breakdown of Active Riders?
+  7. What Is the Average Trip Duration by Age?
+  8. Which Bikes Are Most Likely Due for Repair?
 
