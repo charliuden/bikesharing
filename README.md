@@ -1,26 +1,27 @@
 # Bikesharing
 
-Would a bikesharing program in Des Moines be successful?
+Would a bikesharing business in Des Moines be successful?
 
-## Things to Consider
+## Overview of the analysis:
 
-1. What public transport is already available and is it affordable?
-2. What proportion of the population already owns a car?
-3. How well have bikesharing businesses performed in other cities?
+The goal of this analysis is to determine whenther a bike share business would be successful in Des Moines, Iowa. There are many things to consider before investing in a bikeshare business. For example, what public transport is already available and is it affordable? We have chosen to look at the performance of a bike sharing business in another city: Citi Bikes, located in New York City. 
 
+Citi Bike user data is freely available on their website. The dataset includes information on the rider (ie. date of birth and gender), as well as the ride itself (ride length, and start and stop locations) for every month since 2013. 
 
-## Project Goals
+To aid in understand the potential success of a bike share business in Des Moines, we aim to answer the following questions about Citi Bike:
 
-This project tackles the last question. We use bikeshare data from citiBike to answer the following questions: 
+1. Where in NYC are bikes being used most?
+    a. Where are bike ride start locations?
+    b. Where are bike ride stop locations?
+2. How long are bikes checked out for and is there a difference in use between genders?
+3. When are bikes being used most frequently adn is there a difference in use between genders?
+4. Is user type (subscriber versus customer) changing with gender and time of day?
 
-  1. How Many Trips Were Recorded During the Month of August? 
-     Since whether August is perfect for biking, this is an appropriate month to look at the business' success. If it cannot do well during optimal biking whether, can we expect bikesharing to do well Des Moines? 
-  2. What Is the Proportion of Short-Term Customers to Annual Subscribers?
-  3. What Are Peak Riding Hours in the Month of August?
-  4. What Are the Top Bike Stations in the City for Starting a Journey?
-  5. What Are the Top Bike Stations for Ending a Journey?
-  6. What Is the Gender Breakdown of Active Riders?
-  7. What Is the Average Trip Duration by Age?
-  8. Which Bikes Are Most Likely Due for Repair?
-  9. How Variable Is Bike Utilization?
+                                         
+## Results:
 
+Tableau was used to display this data. Visuals and descriptions of the results can be found in the following Tableau story board: [link to Tableau dashboard](https://public.tableau.com/app/profile/charlotte.uden/viz/NYCCitiBikeAnalysis_16406310706280/NYCCitiBikeAnalysis?publish=yes)
+
+## Summary:
+
+There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
